@@ -1,8 +1,8 @@
-Styled-components
-Life cycle of a component (life cycle functions) 
-/ props /state /conditionel rendering  / event binding (.bind())/spread operator
-react router dom and lazy loading
-In the project directory, you can run:
+Styled-components\
+Life cycle of a component (life cycle functions) \
+/ props /state /conditionel rendering  / event binding (.bind())/spread operator\
+react router dom and lazy loading\
+In the project directory, you can run:\
 
 ### `npm start`
 
